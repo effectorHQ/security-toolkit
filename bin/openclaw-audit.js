@@ -33,7 +33,7 @@ async function main() {
 
       case '--version':
       case '-v':
-        console.log(`@openclawHQ/security-audit v${packageJson.version}`);
+        console.log(`@effectorhq/security-audit v${packageJson.version}`);
         process.exit(0);
         break;
 
@@ -241,8 +241,8 @@ Available Checks:
   - session-timeout       (MEDIUM)   - Session timeout configuration
   - logging-config        (LOW)      - Audit logging enabled
 
-Documentation: https://github.com/OpenClawHQ/security-toolkit
-Report Issues: https://github.com/OpenClawHQ/security-toolkit/issues
+Documentation: https://github.com/effectorHQ/security-toolkit
+Report Issues: https://github.com/effectorHQ/security-toolkit/issues
   `);
 }
 

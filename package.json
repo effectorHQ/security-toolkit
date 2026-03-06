@@ -1,5 +1,5 @@
 {
-  "name": "@openclawHQ/security-audit",
+  "name": "@effectorhq/security-audit",
   "version": "0.1.0",
   "description": "Security audit CLI for OpenClaw configurations. Detects common misconfigurations in 135K+ exposed instances.",
   "type": "module",
@@ -25,16 +25,16 @@
     "cli",
     "devops"
   ],
-  "author": "OpenClawHQ Contributors",
+  "author": "effectorHQ Contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OpenClawHQ/security-toolkit"
+    "url": "https://github.com/effectorHQ/security-toolkit"
   },
   "bugs": {
-    "url": "https://github.com/OpenClawHQ/security-toolkit/issues"
+    "url": "https://github.com/effectorHQ/security-toolkit/issues"
   },
-  "homepage": "https://github.com/OpenClawHQ/security-toolkit#readme",
+  "homepage": "https://github.com/effectorHQ/security-toolkit#readme",
   "engines": {
     "node": ">=18.0.0"
   },

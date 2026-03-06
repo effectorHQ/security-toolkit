@@ -1,7 +1,7 @@
 # OpenClaw Security Audit Toolkit
 
-[![npm version](https://img.shields.io/npm/v/@openclawHQ/security-audit.svg?style=flat-square)](https://www.npmjs.com/package/@openclawHQ/security-audit)
-[![CI Status](https://img.shields.io/github/actions/workflow/status/OpenClawHQ/security-toolkit/ci.yml?style=flat-square)](https://github.com/OpenClawHQ/security-toolkit/actions)
+[![npm version](https://img.shields.io/npm/v/@effectorhq/security-audit.svg?style=flat-square)](https://www.npmjs.com/package/@effectorhq/security-audit)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/effectorHQ/security-toolkit/ci.yml?style=flat-square)](https://github.com/effectorHQ/security-toolkit/actions)
 [![Node.js >= 18](https://img.shields.io/badge/Node.js-%3E%3D18-green?style=flat-square)](https://nodejs.org/)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
@@ -37,13 +37,13 @@ Results are classified by severity level (CRITICAL, HIGH, MEDIUM, LOW) to help y
 ### Installation
 
 ```bash
-npm install -g @openclawHQ/security-audit
+npm install -g @effectorhq/security-audit
 ```
 
 Or use with npx (no installation required):
 
 ```bash
-npx @openclawHQ/security-audit scan
+npx @effectorhq/security-audit scan
 ```
 
 ### Basic Scan
@@ -184,13 +184,13 @@ Always review the tool's source code and run it in secure environments with rest
 
 ## Contributing
 
-We welcome security researchers and community contributions. If you discover additional misconfigurations or hardening strategies, please open an issue or submit a pull request on [GitHub](https://github.com/OpenClawHQ/security-toolkit).
+We welcome security researchers and community contributions. If you discover additional misconfigurations or hardening strategies, please open an issue or submit a pull request on [GitHub](https://github.com/effectorHQ/security-toolkit).
 
 **Security Note**: For security vulnerabilities in OpenClaw itself (not this tool), please report directly to the OpenClaw security team rather than opening public issues.
 
 ## License
 
-MIT License - Copyright 2026 OpenClawHQ Contributors
+MIT License - Copyright 2026 effectorHQ Contributors
 
 ## Resources
 
