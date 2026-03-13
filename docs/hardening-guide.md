@@ -879,7 +879,7 @@ Run the security audit tool regularly:
 - [OWASP API Security Top 10](https://owasp.org/www-project-api-security/)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-- [OpenClaw Official Documentation](https://docs.openclaw.io)
+- [OpenClaw Official Documentation](https://github.com/effectorHQ)
 - [Security Headers](https://securityheaders.com)
 
 ---

@@ -1,4 +1,4 @@
-# OpenClaw Security Audit Toolkit
+# Security Audit Toolkit
 
 [![npm version](https://img.shields.io/npm/v/@effectorhq/security-audit.svg?style=flat-square)](https://www.npmjs.com/package/@effectorhq/security-audit)
 [![CI Status](https://img.shields.io/github/actions/workflow/status/effectorHQ/security-toolkit/ci.yml?style=flat-square)](https://github.com/effectorHQ/security-toolkit/actions)
@@ -195,5 +195,5 @@ MIT License - Copyright 2026 effectorHQ Contributors
 ## Resources
 
 - [OpenClaw Hardening Guide](./docs/hardening-guide.md)
-- [OpenClaw Documentation](https://docs.openclaw.io)
+- [OpenClaw Documentation](https://github.com/effectorHQ)
 - [OWASP Configuration Security Checklist](https://owasp.org)

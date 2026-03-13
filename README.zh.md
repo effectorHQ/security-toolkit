@@ -195,5 +195,5 @@ MIT 许可证 - 版权所有 2026 effectorHQ 贡献者
 ## 资源
 
 - [OpenClaw 加固指南](./docs/hardening-guide.md)
-- [OpenClaw 文档](https://docs.openclaw.io)
+- [OpenClaw 文档](https://github.com/effectorHQ)
 - [OWASP 配置安全检查清单](https://owasp.org)
