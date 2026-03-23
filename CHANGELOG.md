@@ -28,7 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configuration file support (`.openclaw-audit.json`)
 - Comprehensive hardening guide for DevOps teams
 - Bilingual documentation (English and Chinese)
-- MIT License
+- Apache License 2.0
 - Automated testing with Node.js built-in test runner
 
 ### Security

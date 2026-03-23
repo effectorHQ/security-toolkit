@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@effectorhq/security-audit.svg?style=flat-square)](https://www.npmjs.com/package/@effectorhq/security-audit)
 [![CI Status](https://img.shields.io/github/actions/workflow/status/effectorHQ/security-toolkit/ci.yml?style=flat-square)](https://github.com/effectorHQ/security-toolkit/actions)
 [![Node.js >= 18](https://img.shields.io/badge/Node.js-%3E%3D18-green?style=flat-square)](https://nodejs.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache-2.0-blue.svg?style=flat-square)](LICENSE)
 
 [中文文档](./README.zh.md)
 
@@ -190,7 +190,10 @@ We welcome security researchers and community contributions. If you discover add
 
 ## License
 
-MIT License - Copyright 2026 effectorHQ Contributors
+
+This project is currently licensed under the Apache 2.0 License 。
+
+Apache License 2.0 - Copyright 2026 effectorHQ Contributors
 
 ## Resources
 
