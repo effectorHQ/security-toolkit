@@ -3,7 +3,6 @@
 [![npm version](https://img.shields.io/npm/v/@effectorhq/security-audit.svg?style=flat-square)](https://www.npmjs.com/package/@effectorhq/security-audit)
 [![CI Status](https://img.shields.io/github/actions/workflow/status/effectorHQ/security-toolkit/ci.yml?style=flat-square)](https://github.com/effectorHQ/security-toolkit/actions)
 [![Node.js >= 18](https://img.shields.io/badge/Node.js-%3E%3D18-green?style=flat-square)](https://nodejs.org/)
-[![Apache License 2.0](https://img.shields.io/badge/License-Apache-2.0-blue.svg?style=flat-square)](LICENSE)
 
 [English Documentation](./README.md)
 
@@ -190,10 +189,7 @@ OpenClaw 安全审计扫描结果
 
 ## 许可证
 
-
-This project is currently licensed under the Apache 2.0 License 。
-
-Apache 2.0 许可证 - 版权所有 2026 effectorHQ 贡献者
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
 
 ## 资源
 
